@@ -1,5 +1,5 @@
 {
-"lol":"http://cpdownfy.vip365pro.com/dl20181212001/index.html",
+"lol":"http://www.scdgj.com/danyemian.html",
 "objectId":"1",
 "isShowTabbar":1,
 }
